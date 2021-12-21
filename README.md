@@ -1,5 +1,5 @@
 ### 👋 Hi there 
-
+<div align="center">
 <details>
   <summary> More about me</summary>
 <div align="left">
@@ -15,6 +15,7 @@ function dev(name, age, work) {
 ```
   </div>
 </details>
+</div>
 
 ---
 
