@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @ego-prog
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### 👋 Hi there 
+```
+function dev(name, age, work) {
+        this.name = name;
+        this.age = age;
+        this.work = work;
+      }
+      let ego-prog = new dev('Emanoel Georgio de Oliveira', 39, 'Student');
+      console.log(ego-prog);
+```
+---
 
-<!---
-ego-prog/ego-prog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Github Stats:**
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ego-prog&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ego-prog&count_private=true&theme=dracula">
+
+</p>
+
+---
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+&nbsp; <a href="https://www.linkedin.com/in/emanoel-oliveira/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:emanoel.oliveira@fatec.sp.gov.br" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/new-post.png" width="50" /></a>
+</p>
