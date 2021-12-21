@@ -1,9 +1,5 @@
-### 👋 Hi there 
-<div align="center">
-<details>
-  <summary> More about me</summary>
-<div align="left">
- 
+### "Hello, World!" 👋
+
 ``` js
 function dev(name, age, work) {
         this.name = name;
@@ -13,9 +9,6 @@ function dev(name, age, work) {
       let ego-prog = new dev('Emanoel Georgio de Oliveira', 39, 'Student');
       console.log(ego-prog);
 ```
-  </div>
-</details>
-</div>
 
 ---
 
