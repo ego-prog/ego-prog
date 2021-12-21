@@ -1,4 +1,4 @@
-### "Hello, World!" 👋
+### 👋 "Hello, World!"
 
 ``` js
 function dev(name, age, work) {
@@ -12,17 +12,15 @@ function dev(name, age, work) {
 
 ---
 
-**Github Stats:**
+### Github Stats:
 
 <p align="center">
-  
   <img src="https://github-readme-stats.vercel.app/api?username=ego-prog&hide=stars&show_icons=true&theme=dracula&line_height=32">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ego-prog&count_private=true&theme=dracula">
-
 </p>
 
 ---
-<h3> 🤝🏻 Connect with Me </h3>
+### :handshake: Connect with Me:
 
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/emanoel-oliveira/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
