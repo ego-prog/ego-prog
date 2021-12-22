@@ -1,3 +1,4 @@
+![head.png](https://raw.githubusercontent.com/ego-prog/FigureBed/main/img/readme-top.png)
 # :wave: "Hello, World!"
 
 ``` js
@@ -22,3 +23,5 @@ function dev(name, age, work) {
 &nbsp; <a href="https://www.linkedin.com/in/emanoel-oliveira/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:emanoel.oliveira@fatec.sp.gov.br" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/new-post.png" width="50" /></a>
 </p>
+
+![bottom.png](https://raw.githubusercontent.com/ego-prog/FigureBed/main/img/readme-bottom.png)
