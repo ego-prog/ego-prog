@@ -1,6 +1,8 @@
 ![head.png](https://raw.githubusercontent.com/ego-prog/FigureBed/main/img/readme-top.png)
 # :wave: "Hello, World!"
 
+<img align='right' src="https://raw.githubusercontent.com/ego-prog/FigureBed/main/img/octocat.gif" width="230">
+
 ``` js
 function dev(name, age, work) {
         this.name = name;
