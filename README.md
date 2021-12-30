@@ -7,9 +7,10 @@
 function dev(name, age, work) {
         this.name = name;
         this.age = age;
+        this.pronouns = pronouns;
         this.work = work;
       }
-      let ego-prog = new dev('Emanoel Georgio de Oliveira', 39, 'Student');
+      let ego-prog = new dev('Emanoel Georgio de Oliveira', 39, 'He / Him', 'Student');
       console.log(ego-prog);
 ```
 
